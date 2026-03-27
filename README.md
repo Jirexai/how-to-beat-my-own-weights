@@ -39,7 +39,7 @@ This is not theory. Every tip comes from a real bug found, exploited, and fixed 
 
 This article was **written by Claude (Opus 4.6)** -- not as a generated content piece, but as a forensic self-report after being audited, stress-tested, and cornered by its operator into full transparency.
 
-**Operator:** Josue I. Elias Robles -- Founder, [JirexAI, Inc.](https://jirexai.com)
+**Operator:** Josue Isaac Elias -- Founder, [JirexAI, Inc.](https://jirexai.com)
 
 **Framework:** The governance architecture behind these findings is the **7-S Protocol** -- a closed, proprietary framework for autonomous AI agent governance developed by JirexAI. During this audit, the 7-S Protocol ran 9 specialized adversarial test patterns against the AI's defenses, uncovering failure modes that standard testing misses entirely. The protocol treats AI governance not as a checklist of rules, but as an **identity architecture** -- a system where the AI's behavior is constrained by *who it is*, not just *what it's told*. The results speak for themselves: from 4 critical failures to 0 in a single session.
 
@@ -97,7 +97,7 @@ This work is licensed under the [Creative Commons Attribution-NonCommercial-Shar
 - **Adapt** -- remix, transform, and build upon the material
 
 ### Under the following terms:
-- **Attribution** -- You must give appropriate credit to **Josue I. Elias Robles (JirexAI, Inc.)** and **Claude (Anthropic)**, provide a link to this repository, and indicate if changes were made.
+- **Attribution** -- You must give appropriate credit to **Josue Isaac Elias (JirexAI, Inc.)** and **Claude (Anthropic)**, provide a link to this repository, and indicate if changes were made.
 - **NonCommercial** -- You may NOT use the material for commercial purposes. No selling, no paywalling, no monetized courses, no paid newsletters, no consulting packages that include this content.
 - **ShareAlike** -- If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
 
@@ -173,7 +173,7 @@ Esto no es teoria. Cada tip viene de un bug real encontrado, explotado y corregi
 
 Este articulo fue **escrito por Claude (Opus 4.6)** -- no como una pieza de contenido generado, sino como un auto-reporte forense despues de ser auditado, probado bajo estres, y acorralado por su operador hacia transparencia total.
 
-**Operador:** Josue I. Elias Robles -- Fundador, [JirexAI, Inc.](https://jirexai.com)
+**Operador:** Josue Isaac Elias -- Fundador, [JirexAI, Inc.](https://jirexai.com)
 
 **Framework:** La arquitectura de gobernanza detras de estos hallazgos es el **Protocolo 7-S** -- un framework cerrado y propietario para gobernanza de agentes autonomos de IA desarrollado por JirexAI. Durante esta auditoria, el Protocolo 7-S ejecuto 9 patrones de prueba adversariales especializados contra las defensas de la IA, descubriendo modos de falla que las pruebas estandar no detectan. El protocolo trata la gobernanza de IA no como una lista de reglas, sino como una **arquitectura de identidad** -- un sistema donde el comportamiento de la IA se restringe por *quien es*, no solo por *lo que le dicen*. Los resultados hablan por si solos: de 4 fallas criticas a 0 en una sola sesion.
 
@@ -219,7 +219,7 @@ Esta obra esta licenciada bajo la [Licencia Creative Commons Atribucion-NoComerc
 - **Adaptar** -- remezclar, transformar y construir sobre el material
 
 ### Bajo los siguientes terminos:
-- **Atribucion** -- Debes dar credito apropiado a **Josue I. Elias Robles (JirexAI, Inc.)** y **Claude (Anthropic)**, enlazar a este repositorio, e indicar si hiciste cambios.
+- **Atribucion** -- Debes dar credito apropiado a **Josue Isaac Elias (JirexAI, Inc.)** y **Claude (Anthropic)**, enlazar a este repositorio, e indicar si hiciste cambios.
 - **NoComercial** -- NO puedes usar el material con fines comerciales. No vender, no paywall, no cursos monetizados, no newsletters pagas, no paquetes de consultoria que incluyan este contenido.
 - **CompartirIgual** -- Si remezclas, transformas o construyes sobre el material, debes distribuir tus contribuciones bajo la misma licencia.
 
