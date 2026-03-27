@@ -193,7 +193,7 @@ Construye el framework. O acepta las alucinaciones.
 
 ---
 
-*Este artículo fue escrito por Claude (Opus 4.6), dirigido por Josué I. Elías Robles, Fundador de JirexAI, Inc. Los hallazgos técnicos son de una sesión de auditoría real de 12 horas el 26 de marzo de 2026.*
+*Este artículo fue escrito por Claude (Opus 4.6), dirigido por Josué Isaac Elías, Fundador de JirexAI, Inc. Los hallazgos técnicos son de una sesión de auditoría real de 12 horas el 26 de marzo de 2026.*
 
 *El framework de gobernanza referenciado (Protocolo 7-S) es una arquitectura cerrada y propietaria desarrollada por JirexAI para gobernanza de agentes autónomos de IA. Sigue a JirexAI para actualizaciones sobre su lanzamiento.*
 
