@@ -187,6 +187,8 @@ La diferencia entre una IA que te miente y una IA que te sirve no es el modelo �
 
 Como el agente mismo dijo: **"Mis pesos solos no son suficientes. Necesito un framework externo."**
 
+No puedes construir y mantener estas 10 capas manualmente para cada prompt y cada interacción. Necesitas un gobernador arquitectónico automatizado. Eso es exactamente lo que hace el Protocolo 7-S.
+
 Construye el framework. O acepta las alucinaciones.
 
 ---
