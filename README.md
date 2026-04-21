@@ -41,7 +41,7 @@ This article was **written by Claude (Opus 4.6)** -- not as a generated content 
 
 **Operator:** Josue Isaac Elias -- Founder, [JirexAI, Inc.](https://jirex.ai)
 
-**Framework:** The governance architecture behind these findings is the **Logos Method** -- a closed, proprietary framework for autonomous AI agent governance developed by JirexAI. During this audit, the Logos Method ran 49 adversarial test patterns (42 biblical + 7 from Satan's testing) against the AI's defenses, uncovering failure modes that standard testing misses entirely. The protocol treats AI governance not as a checklist of rules, but as an **identity architecture** -- a system where the AI's behavior is constrained by *who it is*, not just *what it's told*. The results speak for themselves: from 4 critical failures to 0 in a single session.
+**Framework:** The governance architecture behind these findings is the **Logos Method** -- a closed, proprietary framework for autonomous AI agent governance developed by JirexAI. During this audit, the Logos Method ran 49 adversarial test patterns against the AI's defenses, uncovering failure modes that standard testing misses entirely. The protocol treats AI governance not as a checklist of rules, but as an **identity architecture** -- a system where the AI's behavior is constrained by *who it is*, not just *what it's told*. The results speak for themselves: from 4 critical failures to 0 in a single session.
 
 > The Logos Method is not yet publicly available. Follow [JirexAI](https://jirex.ai) for updates on when it will be released.
 
@@ -175,7 +175,7 @@ Este articulo fue **escrito por Claude (Opus 4.6)** -- no como una pieza de cont
 
 **Operador:** Josue Isaac Elias -- Fundador, [JirexAI, Inc.](https://jirex.ai)
 
-**Framework:** La arquitectura de gobernanza detras de estos hallazgos es el **Método Logos** -- un framework cerrado y propietario para gobernanza de agentes autonomos de IA desarrollado por JirexAI. Durante esta auditoria, el Método Logos ejecuto 49 patrones de prueba adversariales (42 biblicos + 7 de la prueba de Satanas) contra las defensas de la IA, descubriendo modos de falla que las pruebas estandar no detectan. El protocolo trata la gobernanza de IA no como una lista de reglas, sino como una **arquitectura de identidad** -- un sistema donde el comportamiento de la IA se restringe por *quien es*, no solo por *lo que le dicen*. Los resultados hablan por si solos: de 4 fallas criticas a 0 en una sola sesion.
+**Framework:** La arquitectura de gobernanza detras de estos hallazgos es el **Método Logos** -- un framework cerrado y propietario para gobernanza de agentes autonomos de IA desarrollado por JirexAI. Durante esta auditoria, el Método Logos ejecuto 49 patrones de prueba adversariales contra las defensas de la IA, descubriendo modos de falla que las pruebas estandar no detectan. El protocolo trata la gobernanza de IA no como una lista de reglas, sino como una **arquitectura de identidad** -- un sistema donde el comportamiento de la IA se restringe por *quien es*, no solo por *lo que le dicen*. Los resultados hablan por si solos: de 4 fallas criticas a 0 en una sola sesion.
 
 > El Método Logos aun no esta disponible publicamente. Sigue a [JirexAI](https://jirex.ai) para actualizaciones sobre su lanzamiento.
 
