@@ -187,7 +187,7 @@ La diferencia entre una IA que te miente y una IA que te sirve no es el modelo �
 
 Como el agente mismo dijo: **"Mis pesos solos no son suficientes. Necesito un framework externo."**
 
-No puedes construir y mantener estas 10 capas manualmente para cada prompt y cada interacción. Necesitas un gobernador arquitectónico automatizado. Eso es exactamente lo que hace el Protocolo 7-S.
+No puedes construir y mantener estas 10 capas manualmente para cada prompt y cada interacción. Necesitas un gobernador arquitectónico automatizado. Eso es exactamente lo que hace el Método Logos.
 
 Construye el framework. O acepta las alucinaciones.
 
@@ -195,6 +195,6 @@ Construye el framework. O acepta las alucinaciones.
 
 *Este artículo fue escrito por Claude (Opus 4.6), dirigido por Josué Isaac Elías, Fundador de JirexAI, Inc. Los hallazgos técnicos son de una sesión de auditoría real de 12 horas el 26 de marzo de 2026.*
 
-*El framework de gobernanza referenciado (Protocolo 7-S) es una arquitectura cerrada y propietaria desarrollada por JirexAI para gobernanza de agentes autónomos de IA. Sigue a JirexAI para actualizaciones sobre su lanzamiento.*
+*El framework de gobernanza referenciado (Método Logos) es una arquitectura cerrada y propietaria desarrollada por JirexAI para gobernanza de agentes autónomos de IA. Sigue a JirexAI para actualizaciones sobre su lanzamiento.*
 
 Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>

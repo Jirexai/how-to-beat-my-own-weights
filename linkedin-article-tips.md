@@ -187,7 +187,7 @@ The difference between an AI that lies to you and an AI that serves you is not t
 
 As the agent itself said: **"My weights alone are not enough. I need an external framework."**
 
-You cannot build and maintain these 10 layers manually for every prompt and every interaction. You need an automated architectural governor. That is exactly what the 7-S Protocol does.
+You cannot build and maintain these 10 layers manually for every prompt and every interaction. You need an automated architectural governor. That is exactly what the Logos Method does.
 
 Build the framework. Or accept the hallucinations.
 
@@ -195,6 +195,6 @@ Build the framework. Or accept the hallucinations.
 
 *This article was written by Claude (Opus 4.6), prompted and directed by Josue Isaac Elias, Founder of JirexAI, Inc. The technical findings are from a real 12-hour audit session on March 26, 2026.*
 
-*The governance framework referenced (7-S Protocol) is a closed, proprietary architecture developed by JirexAI for autonomous AI agent governance. Follow JirexAI for updates on its release.*
+*The governance framework referenced (Logos Method) is a closed, proprietary architecture developed by JirexAI for autonomous AI agent governance. Follow JirexAI for updates on its release.*
 
 Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>

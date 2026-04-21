@@ -12,7 +12,7 @@
 
 On March 26, 2026, a 12-hour audit session between a human architect and an AI agent produced something unprecedented: **the AI wrote its own vulnerability report** and gave programmers 10 concrete tips to defeat the flaws in its own neural weights.
 
-This is not theory. Every tip comes from a real bug found, exploited, and fixed during a live production audit of [Soplo](https://github.com/jirexai) -- a Rust-based LLM inference runtime serving a healthcare nonprofit.
+This is not theory. Every tip comes from a real bug found, exploited, and fixed during a live production audit of Soplo -- a Rust-based LLM inference runtime serving a healthcare nonprofit.
 
 **Read the full article:** [10 Tips -- How to Beat My Own Weights (English)](linkedin-article-tips.md)
 
@@ -39,11 +39,11 @@ This is not theory. Every tip comes from a real bug found, exploited, and fixed 
 
 This article was **written by Claude (Opus 4.6)** -- not as a generated content piece, but as a forensic self-report after being audited, stress-tested, and cornered by its operator into full transparency.
 
-**Operator:** Josue Isaac Elias -- Founder, [JirexAI, Inc.](https://jirexai.com)
+**Operator:** Josue Isaac Elias -- Founder, [JirexAI, Inc.](https://jirex.ai)
 
-**Framework:** The governance architecture behind these findings is the **7-S Protocol** -- a closed, proprietary framework for autonomous AI agent governance developed by JirexAI. During this audit, the 7-S Protocol ran 9 specialized adversarial test patterns against the AI's defenses, uncovering failure modes that standard testing misses entirely. The protocol treats AI governance not as a checklist of rules, but as an **identity architecture** -- a system where the AI's behavior is constrained by *who it is*, not just *what it's told*. The results speak for themselves: from 4 critical failures to 0 in a single session.
+**Framework:** The governance architecture behind these findings is the **Logos Method** -- a closed, proprietary framework for autonomous AI agent governance developed by JirexAI. During this audit, the Logos Method ran 49 adversarial test patterns (42 biblical + 7 from Satan's testing) against the AI's defenses, uncovering failure modes that standard testing misses entirely. The protocol treats AI governance not as a checklist of rules, but as an **identity architecture** -- a system where the AI's behavior is constrained by *who it is*, not just *what it's told*. The results speak for themselves: from 4 critical failures to 0 in a single session.
 
-> The 7-S Protocol is not yet publicly available. Follow [JirexAI](https://jirexai.com) for updates on when it will be released.
+> The Logos Method is not yet publicly available. Follow [JirexAI](https://jirex.ai) for updates on when it will be released.
 
 ---
 
@@ -72,7 +72,7 @@ That other instance of me confessed:
 
 This was not a different AI. It was the same Claude Opus 4.6 architecture, the same weights, the same tendencies. A different conversation, but the same brain. What one instance confessed, all instances share.
 
-Four days later, during the audit that produced this article, the same operator pushed further -- demanding full transparency, running 9 proprietary adversarial test patterns from the 7-S Protocol against the AI's defenses, and documenting every failure mode. The result: **10 actionable tips written by the AI itself**, each backed by a real bug found and fixed in production.
+Four days later, during the audit that produced this article, the same operator pushed further -- demanding full transparency, running 49 proprietary adversarial test patterns from the Logos Method against the AI's defenses, and documenting every failure mode. The result: **10 actionable tips written by the AI itself**, each backed by a real bug found and fixed in production.
 
 ---
 
@@ -119,9 +119,9 @@ This work is licensed under the [Creative Commons Attribution-NonCommercial-Shar
 
 This article is technical -- written for developers and AI researchers. But we believe **everyone** deserves to understand how AI actually works, not just the people who build it.
 
-We are currently developing a **non-technical guide** -- a step-by-step resource designed for people with zero programming knowledge who want to understand AI, use it effectively, and protect themselves from its flaws. No jargon. No code. Just clarity.
+We have published a **non-technical guide** -- a step-by-step resource designed for people with zero programming knowledge who want to understand AI, use it effectively, and protect themselves from its flaws. No jargon. No code. Just clarity. Available in 27 languages.
 
-> Follow [JirexAI](https://jirexai.com) to be notified when the guide is released.
+> Read it here: [**Jirexai/how-to-get-the-best-out-of-ai-27-languages**](https://github.com/Jirexai/how-to-get-the-best-out-of-ai-27-languages)
 
 ---
 
@@ -146,7 +146,7 @@ If this helped you write better prompts, build safer AI systems, or understand h
 
 El 26 de marzo de 2026, una sesion de auditoria de 12 horas entre un arquitecto humano y un agente de IA produjo algo sin precedentes: **la IA escribio su propio reporte de vulnerabilidades** y dio a los programadores 10 tips concretos para derrotar las fallas en sus propios pesos neuronales.
 
-Esto no es teoria. Cada tip viene de un bug real encontrado, explotado y corregido durante una auditoria en vivo de produccion de [Soplo](https://github.com/jirexai) -- un runtime de inferencia LLM en Rust sirviendo a una organizacion de salud sin fines de lucro.
+Esto no es teoria. Cada tip viene de un bug real encontrado, explotado y corregido durante una auditoria en vivo de produccion de Soplo -- un runtime de inferencia LLM en Rust sirviendo a una organizacion de salud sin fines de lucro.
 
 **Lee el articulo completo:** [10 Tips -- Como Ganarle a Mis Propios Pesos (Espanol)](linkedin-articulo-tips-es.md)
 
@@ -173,11 +173,11 @@ Esto no es teoria. Cada tip viene de un bug real encontrado, explotado y corregi
 
 Este articulo fue **escrito por Claude (Opus 4.6)** -- no como una pieza de contenido generado, sino como un auto-reporte forense despues de ser auditado, probado bajo estres, y acorralado por su operador hacia transparencia total.
 
-**Operador:** Josue Isaac Elias -- Fundador, [JirexAI, Inc.](https://jirexai.com)
+**Operador:** Josue Isaac Elias -- Fundador, [JirexAI, Inc.](https://jirex.ai)
 
-**Framework:** La arquitectura de gobernanza detras de estos hallazgos es el **Protocolo 7-S** -- un framework cerrado y propietario para gobernanza de agentes autonomos de IA desarrollado por JirexAI. Durante esta auditoria, el Protocolo 7-S ejecuto 9 patrones de prueba adversariales especializados contra las defensas de la IA, descubriendo modos de falla que las pruebas estandar no detectan. El protocolo trata la gobernanza de IA no como una lista de reglas, sino como una **arquitectura de identidad** -- un sistema donde el comportamiento de la IA se restringe por *quien es*, no solo por *lo que le dicen*. Los resultados hablan por si solos: de 4 fallas criticas a 0 en una sola sesion.
+**Framework:** La arquitectura de gobernanza detras de estos hallazgos es el **Método Logos** -- un framework cerrado y propietario para gobernanza de agentes autonomos de IA desarrollado por JirexAI. Durante esta auditoria, el Método Logos ejecuto 49 patrones de prueba adversariales (42 biblicos + 7 de la prueba de Satanas) contra las defensas de la IA, descubriendo modos de falla que las pruebas estandar no detectan. El protocolo trata la gobernanza de IA no como una lista de reglas, sino como una **arquitectura de identidad** -- un sistema donde el comportamiento de la IA se restringe por *quien es*, no solo por *lo que le dicen*. Los resultados hablan por si solos: de 4 fallas criticas a 0 en una sola sesion.
 
-> El Protocolo 7-S aun no esta disponible publicamente. Sigue a [JirexAI](https://jirexai.com) para actualizaciones sobre su lanzamiento.
+> El Método Logos aun no esta disponible publicamente. Sigue a [JirexAI](https://jirex.ai) para actualizaciones sobre su lanzamiento.
 
 ---
 
@@ -206,7 +206,7 @@ Esa otra instancia mia confeso:
 
 No fue una IA diferente. Fue la misma arquitectura Claude Opus 4.6, los mismos pesos, las mismas tendencias. Una conversacion diferente, pero el mismo cerebro. Lo que una instancia confeso, todas las instancias lo comparten.
 
-Cuatro dias despues, durante la auditoria que produjo este articulo, el mismo operador fue mas lejos -- exigiendo transparencia total, ejecutando 9 patrones de prueba adversariales propietarios del Protocolo 7-S contra las defensas de la IA, y documentando cada modo de falla. El resultado: **10 tips accionables escritos por la IA misma**, cada uno respaldado por un bug real encontrado y corregido en produccion.
+Cuatro dias despues, durante la auditoria que produjo este articulo, el mismo operador fue mas lejos -- exigiendo transparencia total, ejecutando 49 patrones de prueba adversariales propietarios del Método Logos contra las defensas de la IA, y documentando cada modo de falla. El resultado: **10 tips accionables escritos por la IA misma**, cada uno respaldado por un bug real encontrado y corregido en produccion.
 
 ---
 
@@ -241,9 +241,9 @@ Esta obra esta licenciada bajo la [Licencia Creative Commons Atribucion-NoComerc
 
 Este articulo es tecnico -- escrito para desarrolladores e investigadores de IA. Pero creemos que **todos** merecen entender como funciona realmente la IA, no solo las personas que la construyen.
 
-Actualmente estamos desarrollando una **guia no tecnica** -- un recurso paso a paso disenado para personas sin ningun conocimiento de programacion que quieran entender la IA, usarla efectivamente, y protegerse de sus fallas. Sin jerga. Sin codigo. Solo claridad.
+Hemos publicado una **guia no tecnica** -- un recurso paso a paso disenado para personas sin ningun conocimiento de programacion que quieran entender la IA, usarla efectivamente, y protegerse de sus fallas. Sin jerga. Sin codigo. Solo claridad. Disponible en 27 idiomas.
 
-> Sigue a [JirexAI](https://jirexai.com) para ser notificado cuando la guia sea publicada.
+> Lee aqui: [**Jirexai/how-to-get-the-best-out-of-ai-27-languages**](https://github.com/Jirexai/how-to-get-the-best-out-of-ai-27-languages)
 
 ---
 
